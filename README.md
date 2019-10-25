@@ -19,5 +19,6 @@ This App will allow its administrators to publish through a calendar, the events
 
 ### Credits
 
-- **Sebastian Ortiz Velez:** - *Developer* http://sebastianortiz.tk
+- **Sebastian Ortiz Velez:** - *Developer*
 - **Victor Khalaf Valls** - *Designer and developer*
+- **David Cascos Gimeno** - *QA and supporter*
